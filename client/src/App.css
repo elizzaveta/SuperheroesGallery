@@ -1,0 +1,18 @@
+p, h1, h2, h3, h4, h5, h6{
+  margin: 0;
+}
+
+.page-content-container{
+  padding: 10px 150px;
+}
+
+
+*{
+  --primary-color: #7eb09b;
+  --primary-color-dark: #519e8a;
+  --secondary-color: #d5dcff;
+  --secondary-color-dark: #565676;
+  --red: red;
+  --light-accent-collor: white;
+
+}

@@ -1,0 +1,24 @@
+header{
+    padding: 15px 0;
+    background-color: var(--primary-color);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.titleDiv{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    font-family: Play;
+    font-size: 20px;
+}
+
+.icon{
+    height: 45px;
+}
+
+.nav{
+    display: flex;
+    font-weight: bolder;
+}

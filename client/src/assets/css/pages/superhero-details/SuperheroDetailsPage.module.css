@@ -1,0 +1,10 @@
+.wrapper{
+    padding: 15px 0;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.actionsBar{
+    display: flex;
+    justify-content: right;
+}

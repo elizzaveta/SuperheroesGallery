@@ -1,0 +1,9 @@
+.lightGrayButton{
+    padding: 5px 10px;
+    background-color: var(--light-accent-collor);
+    border: 2px solid var(--secondary-color-dark);
+    border-radius: 5px;
+    color: var(--secondary-color-dark);
+    font-weight: bolder;
+    cursor: pointer;
+}

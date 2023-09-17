@@ -1,0 +1,20 @@
+.wrapper{
+    padding: 20px 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(255px, 2fr));
+    grid-row-gap: 10px;
+    grid-column-gap: 10px;
+}
+.nav{
+    padding: 10px;
+    margin: 5px 0;
+    display: flex;
+    justify-content: right;
+}
+.nav a{
+    background: var(--secondary-color);
+    padding: 5px;
+    border: 1px solid var(--secondary-color-dark);
+    border-radius: 5px;
+
+}

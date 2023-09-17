@@ -1,0 +1,17 @@
+.flexContainer {
+    display: flex;
+    gap: 5px;
+    flex-wrap: wrap;
+}
+.standoutText{
+    font-weight: bold;
+    color: var(--secondary-color-dark);
+    text-decoration: underline;
+}
+.wrapper>*{
+    margin-bottom: 10px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}

@@ -1,0 +1,13 @@
+.wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2px;
+}
+
+.imageCard{
+    height: 200px;
+    width: 200px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
