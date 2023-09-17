@@ -1,7 +1,32 @@
+# Superheroes Gallery
+
 ## Description
 
 Test Task
+
+### Summary
+
+**Server**
+
+* Defined 3 entities: **Superhero**, **Image**, **Superpower** (to maintain database normal forms)
+* **CRUD** operations for **Superhero** entity and some additional operations for Image and Superpower entities
+* Added **pagination**
+* Wrote **unit tests**
+
+**Client**
+
+* Superheroes List with pagination
+* Particular Superhero detals page
+* Create and Update Superhero forms with ability to assign and delete images
+* Delete Superhero function
+
 ##
+
+### Stack
+
+* client: **React.JS**
+* server: **Nest.JS**
+* database: **PostgreSQL**
 
 ## Installation
 
@@ -46,8 +71,5 @@ $ npm start
 ```bash
 # unit tests
 $ npm run test
-
-# test coverage
-$ npm run test:cov
 ```
 
