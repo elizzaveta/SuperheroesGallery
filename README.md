@@ -46,6 +46,9 @@ $ npm install
 $ npm install
 ```
 
+3. Set up variables for database connection in **.env** file
+   
+4. **Create PostgreSQL database** with a name set in **.env** file
 
 ## Running the app
 
@@ -56,6 +59,8 @@ $ npm install
 ```bash
 $ npm run start
 ```
+
+Server runs on port 8080
 
 **Client**
 
